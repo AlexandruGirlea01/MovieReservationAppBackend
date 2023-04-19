@@ -38,6 +38,15 @@ namespace AppAPI.Controllers {
         // POST api/<ReservationController>
         [HttpPost]
         public async Task<ActionResult<List<Reservation>>> Post(Reservation reservation) {
+            var reservations = await _context.Reservations.ToListAsync();
+            foreach (Reservation dbReservation in reservations) {
+                if (dbReservation.UserId == reservation.UserId && 
+                    dbReservation.ProjectionId == reservation.ProjectionId && 
+                    dbReservation.SeatNumber == reservation.SeatNumber) {
+
+                    return BadRequest("The email is used by another user!");
+                }
+            }
             _context.Reservations.Add(reservation);
             await _context.SaveChangesAsync();
             return Ok(await _context.SaveChangesAsync());

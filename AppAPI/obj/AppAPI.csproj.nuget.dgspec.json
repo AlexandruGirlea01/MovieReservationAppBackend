@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Facultate\\ISS\\AppAPI\\AppAPI\\AppAPI.csproj": {}
+    "D:\\Facultate\\MovieReservationApp\\Backend\\AppAPI\\AppAPI.csproj": {}
   },
   "projects": {
-    "D:\\Facultate\\ISS\\AppAPI\\AppAPI\\AppAPI.csproj": {
+    "D:\\Facultate\\MovieReservationApp\\Backend\\AppAPI\\AppAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Facultate\\ISS\\AppAPI\\AppAPI\\AppAPI.csproj",
+        "projectUniqueName": "D:\\Facultate\\MovieReservationApp\\Backend\\AppAPI\\AppAPI.csproj",
         "projectName": "AppAPI",
-        "projectPath": "D:\\Facultate\\ISS\\AppAPI\\AppAPI\\AppAPI.csproj",
+        "projectPath": "D:\\Facultate\\MovieReservationApp\\Backend\\AppAPI\\AppAPI.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "D:\\Facultate\\ISS\\AppAPI\\AppAPI\\obj\\",
+        "outputPath": "D:\\Facultate\\MovieReservationApp\\Backend\\AppAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",

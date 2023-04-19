@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wI4Bg0OOEEHpkVZcg+RpWwLgAIop5PnJqHcn7TlzUsjbruYjtsj4tW7GmpXE+L1mRJFdcUUrBl40VtRQ7+Wr4Q==",
+  "dgSpecHash": "odq2f0BtEWhOJl0EpfMuHDGDyDNFKDrtZcpyjZTNx21Gfyql9OcBZ1aaWRrij7BHi2zv/jUU2JejYgRDes+FZg==",
   "success": true,
-  "projectFilePath": "D:\\Facultate\\ISS\\AppAPI\\AppAPI\\AppAPI.csproj",
+  "projectFilePath": "D:\\Facultate\\MovieReservationApp\\Backend\\AppAPI\\AppAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alexa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\alexa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
